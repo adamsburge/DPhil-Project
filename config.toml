@@ -1,0 +1,19 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme = "Hyde"
+
+[Menus]
+  main = [
+      {Name = "Thing One", URL = "https://github.com/username/"},
+      {Name = "Thing Two", URL = "https://www.linkedin.com/in/username/"}
+  ]
+
+  [params]
+  description = " "
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
