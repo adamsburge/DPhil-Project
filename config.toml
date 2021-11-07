@@ -1,6 +1,6 @@
 baseURL = 'https://quirky-booth-34540e.netlify.app'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'DPhil Research Notes'
 
 theme = "hyde"
 
