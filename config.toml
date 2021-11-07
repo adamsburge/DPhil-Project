@@ -2,7 +2,7 @@ baseURL = ''
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
-theme = "Hyde"
+theme = "hyde"
 
 [Menus]
   main = [
