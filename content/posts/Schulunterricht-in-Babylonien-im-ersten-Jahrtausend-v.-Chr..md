@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Schulunterricht in Babylonien im ersten Jahrtausend v. Chr.]
 tags: [Type/Reading-Notes]
 title: "Schulunterricht in Babylonien im ersten Jahrtausend v. Chr. Reading Notes" 
 draft: false

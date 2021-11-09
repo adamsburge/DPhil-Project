@@ -13,6 +13,7 @@ draft: false
 
 [DPhil Meetings with Stevens](DPhil-Meetings-With-Stevens.md)
 
+[Current Research Tasks](Current-Research-Tasks.md)
 ## Corpora
 #### The Aegean
 
@@ -26,9 +27,9 @@ draft: false
 #### Egypt
 An important note about the Hellenistic educational demotic content is that is is largely unpublished, according to Cribiore 2001. It is possible that more has been published since then, but I am also struggling to find more content. Nonetheless, Cribiore does say that the interaction between Greek and Demotic educational practices deserves further study.[^1]
 
-- [[Narmouthis Ostraca]] - 
-- [[Elephantine Ostraca]]
-- [[Zenon Archive]]
+- [Narmouthis Ostraca](Narmouthis-Ostraca.md)
+- [Elephantine Ostraca](Elephantine-Ostraca.md)
+- [Zenon Archive](Zenon-Archive.md) - Approx. 263-229 BCE
 - [[Katochoi Archive]] 
 ## History of Scholarship on Ancient Education
 #### Scholars
@@ -36,7 +37,7 @@ An important note about the Hellenistic educational demotic content is that is i
 - [Henri-Irénée Marrou](Henri-Irénée-Marrou.md)
 - [Werner Jaeger](Werner-Jaeger.md)
 - [[Ilsetraut Hadot]]
-- [[Raffaella Cribiore]]
+- [[Raffaella-Cribiore]]
 
 ##### Cuneiform
 - [[Niek Veldhuis]]
@@ -57,7 +58,7 @@ An important note about the Hellenistic educational demotic content is that is i
 	- παιδεύω
 
 - [διδακ- and διδασκ- Words](διδακ-and-διδασκ-Words.md)
-	- [[δίδαξις]]
+	- [δίδαξις](δίδαξις.md)
 	- [[διδασκαλεῖον]]
 	- [[διδασκαλία]]
 
