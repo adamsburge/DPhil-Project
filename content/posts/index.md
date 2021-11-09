@@ -24,6 +24,8 @@ draft: false
 
 
 #### Egypt
+An important note about the Hellenistic educational demotic content is that is is largely unpublished, according to Cribiore 2001. It is possible that more has been published since then, but I am also struggling to find more content. Nonetheless, Cribiore does say that the interaction between Greek and Demotic educational practices deserves further study.[^1]
+
 - [[Narmouthis Ostraca]] - 
 - [[Elephantine Ostraca]]
 - [[Zenon Archive]]
@@ -106,3 +108,5 @@ BIS: i~07.1+11.6+12.24+13.21|H20.Tcb5:Tcc2
 Page To-Do:
 
 %%
+
+[^1]: Cribiore 2001: 5.
