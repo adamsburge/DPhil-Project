@@ -37,7 +37,7 @@ An important note about the Hellenistic educational demotic content is that is i
 - [Henri-Irénée Marrou](Henri-Irénée-Marrou.md)
 - [Werner Jaeger](Werner-Jaeger.md)
 - [[Ilsetraut Hadot]]
-- [[Raffaella-Cribiore]]
+- [Raffaella Cribiore](Raffaella-Cribiore.md)
 
 ##### Cuneiform
 - [[Niek Veldhuis]]
