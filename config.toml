@@ -2,7 +2,7 @@ baseURL = 'https://quirky-booth-34540e.netlify.app/'
 languageCode = 'en-us'
 title = 'DPhil Research Notes'
 
-theme = "book"
+theme = "documentation"
 
 [Menus]
   main = [
