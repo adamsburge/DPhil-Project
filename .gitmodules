@@ -10,3 +10,6 @@
 [submodule "themes/documentation-theme"]
 	path = themes/documentation-theme
 	url = https://github.com/wowchemy/hugo-documentation-theme
+[submodule "themes/shadocs"]
+	path = themes/shadocs
+	url = https://github.com/jgazeau/shadocs.git
