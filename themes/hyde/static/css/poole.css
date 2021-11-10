@@ -61,6 +61,7 @@ html {
 body {
   color: rgb(41, 44, 46);
   background-color: rgb(232 230 226);
+  font-size: .80rem;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
           text-size-adjust: 100%;
