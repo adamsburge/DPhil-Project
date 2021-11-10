@@ -18,7 +18,7 @@ draft: false
 #### The Aegean
 
 #### Mesopotamia
-- [Graeco-Babyloniaca](Graeco-Babyloniaca.md)
+- [[Graeco-Babyloniaca]]
 - [Schulunterricht-in-Babylonien-im-ersten-Jahrtausend-v.-Chr.](Schulunterricht-in-Babylonien-im-ersten-Jahrtausend-v.-Chr..md) by [Petra Gesche](Petra%20Gesche)
 - [History of the Cuneiform Lexical Tradition](History-of-the-Cuneiform-Lexical-Tradition.md) by [[Niek Veldhuis]]
 - [[Neo- and Late- Babylonian Apprenticeship Contracts]] see the Oxford Handbook to Cuneiform Culture article by Cohen and Kedar

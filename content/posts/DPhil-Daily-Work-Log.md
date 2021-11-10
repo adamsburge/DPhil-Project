@@ -8,5 +8,8 @@ draft: false
 This is where I plan to write updates about what I do each day
 
 
+## Tuesday 9 Nov
+
+
 
 
