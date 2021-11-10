@@ -1,5 +1,5 @@
 {{ if .IsHome -}}
-{{ $pages := site.GetPage "content/posts/_index" }}
+{{ $pages := site.GetPage "content/posts/_index.md" }}
 {{ range first 1 $pages.Pages }} 
   <meta http-equiv="refresh" content="0; url={{ .Permalink }}" />
 {{ end }}
