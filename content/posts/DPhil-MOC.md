@@ -27,6 +27,13 @@ draft: false
 #### Egypt
 An important note about the Hellenistic educational demotic content is that is is largely unpublished, according to Cribiore 2001. It is possible that more has been published since then, but I am also struggling to find more content. Nonetheless, Cribiore does say that the interaction between Greek and Demotic educational practices deserves further study.[^1]
 
+| Corpus                                        | Date                | Notes                                                              |
+| --------------------------------------------- | ------------------- | ------------------------------------------------------------------ |
+| [Zenon Archive](Zenon-Archive.md)             | Approx. 263-229 BCE | Nicely situation time-wise, but educational content is more sparse |
+| [Elephantine Ostraca](Elephantine-Ostraca.md) |                     |                                                                    |
+| [Katochoi Archive](Katochoi%20Archive)        |                     |                                                                    |
+| [Narmouthis Ostraca](Narmouthis-Ostraca.md) | Approx. 150-225 CE  | Perhaps a bit too far outside the Hellenistic period, but the amount of educational ostraca makes it valuable |                                              |                     |                                                                    |
+
 - [Narmouthis Ostraca](Narmouthis-Ostraca.md)
 - [Elephantine Ostraca](Elephantine-Ostraca.md)
 - [Zenon Archive](Zenon-Archive.md) - Approx. 263-229 BCE
