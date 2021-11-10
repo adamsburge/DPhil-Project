@@ -12,7 +12,7 @@ draft: false
 - [δίδαξις](δίδαξις.md)
 	- [ ] Begin investigations
 #### Corpora
-- [ ] Add dates
+- [x] Add dates
 - [ ] Begin looking through [Schulunterricht-in-Babylonien-im-ersten-Jahrtausend-v.-Chr.](Schulunterricht-in-Babylonien-im-ersten-Jahrtausend-v.-Chr..md)
 	- [ ] Try to narrow down and identify specific useful tablets or groups of tablets
 - [ ] Look into the Neo and Late Babylonian Apprenticeship contracts

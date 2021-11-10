@@ -6,8 +6,9 @@ theme = "hyde"
 
 [Menus]
   main = [
-      {Name = "Thing One", URL = "https://github.com/username/"},
-      {Name = "Thing Two", URL = "https://www.linkedin.com/in/username/"}
+      {Name = "DPhil Meetings with Stevens", URL = "https://adamsdphilnotes.netlify.app/posts/dphil-meetings-with-stevens/"},
+      {Name = "Current Research Tasks", URL = "https://adamsdphilnotes.netlify.app/posts/current-research-tasks/"},
+      {Name = "Working Bibliography", URL = "https://1drv.ms/w/s!AtFZ4ElDbRkTijFTEK2TMet9-JhG"}
   ]
 
   [params]
@@ -17,3 +18,7 @@ theme = "hyde"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.tableOfContents]
+    endLevel = 6
+    ordered = true
+    startLevel = 2
