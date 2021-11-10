@@ -86,14 +86,15 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 1.55em;
+  font-size: 2em;
+  font-weight: 100;
   border-bottom-style: solid;
   border-bottom-color: gray;
   border-width: thin;
   text-transform: uppercase;
 }
 h2 {
-  font-size: 1.6em;
+  font-size: 1.5em;
   border-bottom: solid;
   border-bottom-color: gray;
   border-bottom-width: thin;
