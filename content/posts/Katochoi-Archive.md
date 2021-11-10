@@ -1,11 +1,11 @@
 ---
-aliases: [Katochoi Archive]
+aliases: [Katochoi Archive, Katochoi of the Sarapieion]
 tags: [Type/Corpus]
-title: "The Katochoi Archive" 
+title: "The Katochoi of the Sarapieion Archive" 
 draft: false
 ---
 
-## Dating
+## Dating: Approx. 199-150 BCE
 
 
 ## Description
@@ -18,7 +18,7 @@ draft: false
 
 
 --- 
-Links: 
+Links: [Trismegistos Page](https://www.trismegistos.org/archive/119)
 
 Page Status: 
 

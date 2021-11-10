@@ -36,9 +36,9 @@ An important note about the Hellenistic educational demotic content is that is i
 | Corpus                                        | Date                | Notes                                                              |
 | --------------------------------------------- | ------------------- | ------------------------------------------------------------------ |
 | [Zenon Archive](Zenon-Archive.md)             | Approx. 263-229 BCE | Nicely situation time-wise, but educational content is more sparse |
-| [Elephantine Ostraca](Elephantine-Ostraca.md) |                     |                                                                    |
-| [Katochoi Archive](Katochoi-Archive.md)        |                     |                                                                    |
-| [Narmouthis Ostraca](Narmouthis-Ostraca.md) | Approx. 150-225 CE  | Perhaps a bit too far outside the Hellenistic period, but the amount of educational ostraca makes it valuable |                                              |                     |                                                                    |
+| [Elephantine Ostraca](Elephantine-Ostraca.md) | Varied. From Pre-Ptolemaic to Imperial | Not many school texts/exercises. 11 in Total. Perhaps worth looking into the contents of the rest which may refer to education (roughly 650 total in the whole corpus)                                                                    |
+| [Katochoi Archive](Katochoi-Archive.md)        | Approx. 199-150 BCE | Nicely situated time-wise, but perhaps only useful for understanding the outcome of education since the katochoi ocassionally demonstrate knowledge of literature                                                                   |
+| [Narmouthis Ostraca](Narmouthis-Ostraca.md) | Approx. 150-225 CE  | Perhaps a bit too far outside the Hellenistic period, but the amount of educational ostraca (approx. 1400) makes it valuable |                                              |                     |                                                                    |
 
 ## History of Scholarship on Ancient Education
 #### Scholars
