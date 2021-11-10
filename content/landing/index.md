@@ -2,9 +2,10 @@
 aliases: [DPhil Project, DPhil Project MOC]
 tags: [Type/MOC Project/DPhil]
 title: "DPhil MOC" 
+summary: "The curated map of content for my DPhil project"
+type: "widget_page"
 draft: false
 ---
-
 
 ## Useful Links
 
