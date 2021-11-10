@@ -7,6 +7,7 @@ draft: false
 
 
 ## Useful Links
+
 [Working Bibliography Link](https://1drv.ms/w/s!AtFZ4ElDbRkTijFTEK2TMet9-JhG)
 
 [DPhil-Daily-Work-Log](DPhil-Daily-Work-Log.md)
@@ -18,10 +19,15 @@ draft: false
 #### The Aegean
 
 #### Mesopotamia
-- [[Graeco-Babyloniaca]]
-- [Schulunterricht-in-Babylonien-im-ersten-Jahrtausend-v.-Chr.](Schulunterricht-in-Babylonien-im-ersten-Jahrtausend-v.-Chr..md) by [Petra Gesche](Petra%20Gesche)
+
+| Corpus                                                                                                    | Date                                                                                                                                                                       | Notes                                                                                                         |
+| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | 
+| [Neo- and Late- Babylonian Apprenticeship Contracts](Neo-and-Late-Babylonian-Apprenticeship-Contracts.md) |                                                                                                                                                                            | Perhaps helpful for understanding education where literacy is not the emphasis; see the Oxford Handbook to Cuneiform Culture article by Cohen and Kedar when beginning to research                              |
+| [Graeco-Babyloniaca](Graeco-Babyloniaca.md)                                                               | Roughly Hellenistic-Early Imperial  |Exact Dates Disputed. Geller asserts between second cent. BCE and up to early fourth cent. CE, though I'm not sure if I agree about it being that late                                                                                                               |
+
+###### Other places to look for corpora
+- [Schulunterricht-in-Babylonien-im-ersten-Jahrtausend-v.-Chr.](Schulunterricht-in-Babylonien-im-ersten-Jahrtausend-v.-Chr..md) by Petra Gesche
 - [History of the Cuneiform Lexical Tradition](History-of-the-Cuneiform-Lexical-Tradition.md) by [[Niek Veldhuis]]
-- [[Neo- and Late- Babylonian Apprenticeship Contracts]] see the Oxford Handbook to Cuneiform Culture article by Cohen and Kedar
 
 
 #### Egypt
@@ -31,13 +37,9 @@ An important note about the Hellenistic educational demotic content is that is i
 | --------------------------------------------- | ------------------- | ------------------------------------------------------------------ |
 | [Zenon Archive](Zenon-Archive.md)             | Approx. 263-229 BCE | Nicely situation time-wise, but educational content is more sparse |
 | [Elephantine Ostraca](Elephantine-Ostraca.md) |                     |                                                                    |
-| [Katochoi Archive](Katochoi%20Archive)        |                     |                                                                    |
+| [Katochoi Archive](Katochoi-Archive.md)        |                     |                                                                    |
 | [Narmouthis Ostraca](Narmouthis-Ostraca.md) | Approx. 150-225 CE  | Perhaps a bit too far outside the Hellenistic period, but the amount of educational ostraca makes it valuable |                                              |                     |                                                                    |
 
-- [Narmouthis Ostraca](Narmouthis-Ostraca.md)
-- [Elephantine Ostraca](Elephantine-Ostraca.md)
-- [Zenon Archive](Zenon-Archive.md) - Approx. 263-229 BCE
-- [[Katochoi Archive]] 
 ## History of Scholarship on Ancient Education
 #### Scholars
 ##### Greek
