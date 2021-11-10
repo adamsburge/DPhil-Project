@@ -22,3 +22,5 @@ theme = "hyde"
     endLevel = 6
     ordered = true
     startLevel = 2
+
+disqusShortname = "adamburge"
