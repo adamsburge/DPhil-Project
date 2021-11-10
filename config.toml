@@ -1,18 +1,18 @@
 baseURL = 'https://adamsdphilnotes.netlify.app/'
 languageCode = 'en-us'
-title = 'DPhil Research Notes'
+title = 'Education in the Hellenistic World'
 
 theme = "hyde"
 
 [Menus]
   main = [
-      {Name = "DPhil Meetings with Stevens", URL = "https://adamsdphilnotes.netlify.app/posts/dphil-meetings-with-stevens/"},
-      {Name = "Current Research Tasks", URL = "https://adamsdphilnotes.netlify.app/posts/current-research-tasks/"},
-      {Name = "Working Bibliography", URL = "https://1drv.ms/w/s!AtFZ4ElDbRkTijFTEK2TMet9-JhG"}
+      {Name = "– DPhil Meetings with Stevens", URL = "https://adamsdphilnotes.netlify.app/posts/dphil-meetings-with-stevens/"},
+      {Name = "– Current Research Tasks", URL = "https://adamsdphilnotes.netlify.app/posts/current-research-tasks/"},
+      {Name = "– Working Bibliography", URL = "https://1drv.ms/w/s!AtFZ4ElDbRkTijFTEK2TMet9-JhG"}
   ]
 
   [params]
-  description = " "
+  description = "Adam's DPhil Research Notes"
 
 [markup]
   [markup.goldmark]
