@@ -4,14 +4,6 @@ title: "DPhil MOC"
 draft: false
 ---
 
-## Useful Links
-
-[Working Bibliography Link](https://1drv.ms/w/s!AtFZ4ElDbRkTijFTEK2TMet9-JhG)
-
-[DPhil Meetings With Stevens](posts/DPhil-Meetings-With-Stevens.md)
-
-[Current Research Tasks](posts/Current-Research-Tasks.md)
-
 ## Corpora
 #### The Aegean
 
