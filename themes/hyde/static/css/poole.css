@@ -34,10 +34,7 @@
  *
  * Update the foundational and global aspects of the page.
  */
- 
- body {
-  counter-reset: sidenote-counter;
-}
+
 
  * {
   -webkit-box-sizing: border-box;
@@ -669,4 +666,8 @@ label.margin-toggle:not(.sidenote-number) {
   img {
       width: 100%;
   }
+}
+
+body {
+  counter-reset: sidenote-counter;
 }
