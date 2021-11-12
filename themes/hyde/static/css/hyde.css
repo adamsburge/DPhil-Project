@@ -57,7 +57,7 @@
   text-align: center;
   padding: 2rem 1rem;
   color: #fffff8;
-  background-color: #111111;
+  background-color: rgb(41, 44, 46);
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -73,6 +73,7 @@
 /* Sidebar links */
 .sidebar a {
   color: #fffff8;
+  text-decoration: none;
 }
 
 /* About section */
@@ -125,7 +126,6 @@ a.sidebar-nav-item:focus {
 .content {
   padding-top:    2rem;
   padding-bottom: 4rem;
-  max-width: 30%;
 }
 
 @media (min-width: 48em) {
