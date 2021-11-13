@@ -14,6 +14,10 @@ theme = "hyde"
   [params]
   description = "Adam's DPhil Research Notes"
 
+[[module.mounts]]
+source = "images"
+target = "assets/images"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
