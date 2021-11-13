@@ -6,12 +6,12 @@ draft: false
 ---
 
 ## Bibliographic Info
-Author(s): [[Niek Veldhuis]]
-Year: 2014 %% #Year-Catalogue/2014  %%
-Publisher: [[Ugarit-Verlag]]
-City: [[Münster]]
-[URL:]()
-[PDF Link:]()
+Author(s): [[Niek Veldhuis]]<br>
+Year: 2014 %% #Year-Catalogue/2014  %%<br>
+Publisher: [[Ugarit-Verlag]]<br>
+City: [[Münster]]<br>
+[URL:]()<br>
+[PDF Link:]()<br>
 
 ## Summary
 Due to lexical lists being a large part of the cuneiform education system, Veldhuis’ monograph, while not necessarily compiling a corpus of exemplars, does provide helpful information about the education system of the Late-Babylonian period. Chapter 7, ‘Temples, Scholars, and Students’, will be particularly helpful due to its focus on the Neo- and Late-Babylonian periods.

@@ -5,8 +5,7 @@ title: "The Zenon Archive"
 draft: false
 ---
 
-## Dating: Approx. 263-229 BCE
-[^2]
+## Dating: Approx. 263-229 BCE[^2]
 
 ## Description
 An archive of papyri which relate to [Zenon, Son of Agreophon](Zenon-Son-of-Agreophon.md), and to the day-to-day running of the estate of [Apollonius](Apollonius-(Dioiketes).md). 

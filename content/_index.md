@@ -50,30 +50,39 @@ An important note about the Hellenistic educational demotic content is that is i
 
 ## Words For and Relating to Education
 #### Greek
-- [παιδ-Words](posts/παιδ-Words.md)
-	- [παιδεία](posts/παιδεία.md)
-	- [[παιδαγώγησις]]
-	- παιδεύω
+| παιδ-Words                  | Definition | Notes |
+| --------------------------- | ---------- | ----- |
+| [παιδεία](posts/παιδεία.md) | 1. The rearing of a child<br>2. training and teaching, education|Often noted as being opposed to [τροφή](τροφή)|
+| παιδαγώγησι                 |            |       |
+| παιδεύω |            |       |
 
-- [διδακ- and διδασκ- Words](posts/διδακ-and-διδασκ-Words.md)
-	- [δίδαξις](posts/δίδαξις.md)
-	- [[διδασκαλεῖον]]
-	- [[διδασκαλία]]
 
-- [[μαθ- Words]]
-	- [[μάθημα]]
-	- [[μανθάνω]]
-	- 
+| διδακ- and διδασκ- Words| Definition | Notes |
+| --------------------------- | ---------- | ----- |
+| [δίδαξις](posts/δίδαξις.md) | Teaching or instruction | |
+| διδασκαλεῖον               |            |       |
+| διδασκαλία |            |       |
 
-- [[γραμμα-Words]]
-	- [[γραμματίζω]]
-	- [[γραμματικός]]
-	- Look into Hermione grammatikē (Roman)
-		- At Girton, Petrie and his wife wanted it to go to a women's college (1911)
 
-- [[τροφή]]?
-- [[τέχνη]]
-- ἐπιστημη
+| μαθ- Words| Definition | Notes |
+| --------------------------- | ---------- | ----- |
+| μάθησις | the act of learning or getting knowledge | |
+| μάθημα  |            |       |
+| μανθάνω |            |       |
+
+
+| γραμμα- Words| Definition | Notes |
+| --------------------------- | ---------- | ----- |
+| γραμματίζω | the act of learning or getting knowledge | |
+| γραμματικός<br>γραμματική | learned?  | there's a bit of debate over how to translate and understand the term 'γραμματική' on the Girton mummy. Look more into this. |
+
+| Other Words | Definition                   | Notes                                                                                                   |
+| ----------- | ---------------------------- | ------------------------------------------------------------------------------------------------------- |
+| τροφή       | Νurture or rearing of a child | As opposed to [παιδεία](posts/παιδεία.md). Still don't fully comprehend the distinction between the two |
+| τέχνη       |                              |                                                                                                         |
+| ἐπιστήμη    | Acquaintance with a matter, understanding, skill | |
+| πολυΐστωρ | Very learned | Epithet applied to Alexander Polyhistor.<br>Question: what made him πολυΐστωρ? |
+
 
 #### Akkadian-Sumerian
 - [[É-DUB-BA]] (Sumerian) or *bītum ṭuppim* (Akkadian): school house or tablet house.

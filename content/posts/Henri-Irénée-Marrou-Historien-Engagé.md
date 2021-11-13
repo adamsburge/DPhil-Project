@@ -6,12 +6,12 @@ draft: false
 ---
 
 ## Bibliographic Info
-Author(s): [[Pierre Riché]]; [[René Rémond]]
-Year: 2003
-Publisher: [[Les Éditions du Cerf]]
-City: [[Paris]] 
-[URL:]()
-[PDF Link:]()
+Author(s): [[Pierre Riché]]; [[René Rémond]]<br>
+Year: 2003<br>
+Publisher: [[Les Éditions du Cerf]]<br>
+City: [[Paris]] <br>
+[URL:]()<br>
+[PDF Link:]()<br>
 
 
 ## From the Section on 'Histoire de l'éducation dans l'Antiquité'

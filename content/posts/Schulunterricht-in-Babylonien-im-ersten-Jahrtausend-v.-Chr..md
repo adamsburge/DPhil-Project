@@ -6,12 +6,12 @@ draft: false
 ---
 
 ## Bibliographic Info
-Author(s): [[Petra Gesche]]
-Year: 2001 %% #Year-Catalogue/2001  %%
-Publisher: [[Ugarit-Verlag]]
-City: [[Münster]]
-[URL:]()
-[PDF Link:]()
+Author(s): [[Petra Gesche]]<br>
+Year: 2001 %% #Year-Catalogue/2001  %%<br>
+Publisher: [[Ugarit-Verlag]]<br>
+City: [[Münster]]<br>
+[URL:]()<br>
+[PDF Link:]()<br>
 
 
 ## Summary

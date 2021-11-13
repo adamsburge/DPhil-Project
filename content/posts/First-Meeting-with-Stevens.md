@@ -6,11 +6,11 @@ draft: false
 ---
 
 ## Bibliographic Info
-Supervisor: [[Kathryn Stevens]]
-Term: Michaelmas
-Date: 7 October 2021 %% #Year-Catalogue/2021/October %%
-University or Institution: [[University of Oxford]]
-Other Meetings: [DPhil Meetings With Stevens](DPhil-Meetings-With-Stevens.md)
+Supervisor: [[Kathryn Stevens]]<br>
+Term: Michaelmas<br>
+Date: 7 October 2021 %% #Year-Catalogue/2021/October %%<br>
+University or Institution: [[University of Oxford]]<br>
+Other Meetings: [DPhil Meetings With Stevens](DPhil-Meetings-With-Stevens.md)<br>
 
 ## Questions for Stevens
 - Secondary supervisor?
