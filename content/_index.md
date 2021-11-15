@@ -50,47 +50,51 @@ An important note about the Hellenistic educational demotic content is that is i
 
 ## Words For and Relating to Education
 #### Greek
-| παιδ-Words                  | Definition | Notes |
+| παιδ-Words                  | Lexical Definition | Notes |
 | --------------------------- | ---------- | ----- |
 | [παιδεία](posts/παιδεία.md) | 1. The rearing of a child<br>2. training and teaching, education|Often noted as being opposed to [τροφή](τροφή)|
 | παιδαγώγησι                 |            |       |
 | παιδεύω |            |       |
 
 
-| διδακ- and διδασκ- Words| Definition | Notes |
+| διδακ- and διδασκ- Words| Lexical Definition | Notes |
 | --------------------------- | ---------- | ----- |
 | [δίδαξις](posts/δίδαξις.md) | Teaching or instruction | |
 | διδασκαλεῖον               |            |       |
 | διδασκαλία |            |       |
 
 
-| μαθ- Words| Definition | Notes |
+| μαθ- Words| Lexical Definition | Notes |
 | --------------------------- | ---------- | ----- |
-| μάθησις | the act of learning or getting knowledge | |
+| [μάθησις](posts/μάθησις.md) | 1. the act of learning, getting of knowledge<br>2. desire of learning<br>3. education, instruction | |
 | μάθημα  |            |       |
 | μανθάνω |            |       |
 
 
-| γραμμα- Words| Definition | Notes |
+| γραμμα- Words| Lexical Definition | Notes |
 | --------------------------- | ---------- | ----- |
 | γραμματίζω | the act of learning or getting knowledge | |
 | γραμματικός<br>γραμματική | learned?  | there's a bit of debate over how to translate and understand the term 'γραμματική' on the Girton mummy. Look more into this. |
 
-| Other Words | Definition                   | Notes                                                                                                   |
-| ----------- | ---------------------------- | ------------------------------------------------------------------------------------------------------- |
-| τροφή       | Νurture or rearing of a child | As opposed to [παιδεία](posts/παιδεία.md). Still don't fully comprehend the distinction between the two |
-| τέχνη       |                              |                                                                                                         |
-| ἐπιστήμη    | Acquaintance with a matter, understanding, skill | |
-| πολυΐστωρ | Very learned | Epithet applied to Alexander Polyhistor.<br>Question: what made him πολυΐστωρ? |
+| Other Words | Lexical Definition                               | Notes                                                                                                   |
+| ----------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| τροφή       | Νurture or rearing of a child                    | As opposed to [παιδεία](posts/παιδεία.md). Still don't fully comprehend the distinction between the two |
+| τέχνη       |                                                  |                                                                                                         |
+| ἐπιστήμη    | Acquaintance with a matter, understanding, skill |                                                                                                         |
+| πολυΐστωρ   | Very learned                                     | Epithet applied to Alexander Polyhistor.<br>Question: what made him πολυΐστωρ?                          |
+| σχολάρχης | Head of a school |                                                                                                         |
 
 
 #### Akkadian-Sumerian
-- [[É-DUB-BA]] (Sumerian) or *bītum ṭuppim* (Akkadian): school house or tablet house.
-- [[UM-MI-A]] (Sumerian) or *ummānu* (Akkadian): Teacher; master; expert; craftsman.
-- [[DUMU-É-DUB-BA]] (Sumerian): literally 'son of the tablet house' but used in literary texts to refer to pupils.
-- [[DUB-SAR-TUR]] (Sumerian): literally 'junior scribe'. Used in [[Colophons]] to refer to a pupil
-- [[ŠEŠ-GAL]] (Sumerian): literally 'elder brother' but used to refer to an advanced pupil.
-- [[lamādum]] (meaning to learn)
+| Akkadian       | Sumerian      | Definition                         | Notes                                     |
+| -------------- | ------------- | ---------------------------------- | ----------------------------------------- |
+| *bītum ṭuppim* | É-DUB-BA      | School house/tablet house          |                                           |
+| *ummānu*       | UM-MI-A       | Teacher; master; expert; craftsman |                                           |
+|                | DUMU-É-DUB-BA | lit. 'son of the tablet house'     | Used in literary texts to refer to pupils |
+|                | DUB-SAR-TUR   | lit. 'elder brother'               | Used in colophons to refer to a pupil     |
+|                | ŠEŠ-GAL       | literally 'elder brother'          | Used to refer to an advanced pupil        |
+| *lamādum* |               | to learn | In the D-Stem it is also used to mean 'to teach' |
+
 
 #### Egyptian (Middle & Demotic)
 
@@ -105,6 +109,7 @@ An important note about the Hellenistic educational demotic content is that is i
 #### Questions & Problems
 - Was Paederasty part of the education system?
 - To what extent was religion and music involved in education?
+- What make someone 'very learned'? I.e., how does someone become πολυΐτωρ?
 
 --- 
 Links: 
