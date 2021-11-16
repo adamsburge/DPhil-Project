@@ -1,6 +1,6 @@
 ---
 tags: [Type/MOC Project/DPhil]
-title: "DPhil MOC" 
+title: "DPhil Map of Content" 
 draft: false
 ---
 

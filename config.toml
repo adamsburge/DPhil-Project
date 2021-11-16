@@ -6,7 +6,8 @@ theme = "hyde"
 
 [Menus]
   main = [
-      {Name = "– DPhil Meetings with Stevens", URL = "https://adamsdphilnotes.netlify.app/posts/dphil-meetings-with-stevens/"},
+      {Name = "– Research Updates for DPhil Meetings", URL = "https://adamsdphilnotes.netlify.app/posts/Meeting-Updates/"},
+      {Name = "– DPhil Meeting Notes", URL = "https://adamsdphilnotes.netlify.app/posts/dphil-meetings-with-stevens/"},
       {Name = "– Current Research Tasks", URL = "https://adamsdphilnotes.netlify.app/posts/current-research-tasks/"},
       {Name = "– Working Bibliography", URL = "https://1drv.ms/w/s!AtFZ4ElDbRkTijFTEK2TMet9-JhG"}
   ]
