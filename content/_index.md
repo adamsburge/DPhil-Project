@@ -34,8 +34,9 @@ An important note about the Hellenistic educational demotic content is that is i
 ##### Greek
 - [Henri-Irénée Marrou](posts/Henri-Irénée-Marrou.md)
 - [Werner Jaeger](posts/Werner-Jaeger.md)
-- [[Ilsetraut Hadot]]
+- Ilsetraut Hadot
 - [Raffaella Cribiore](posts/Raffaella-Cribiore.md)
+- [Mark Griffith](posts/Mark-Griffith.md)
 
 ##### Cuneiform
 - [[Niek Veldhuis]]
@@ -46,15 +47,25 @@ An important note about the Hellenistic educational demotic content is that is i
 - [[Igor Diakonov]]: especially 1990. Keep in mind that this is in Russian. [[Niek Veldhuis]] give a good summary, though. (pp.26ff.)
 - [[Eleanor Robson]]
 - [[Wilfred van Soldt]] (particularly his edited volume with Wolfert van Egmond 2012)
+
+##### Other
+- Pierre Bourdieu (Sociologist; originator of the term 'rite of institution'. Griffiths prefers Bourdieu's term over Van Gennep's when it comes to articulating ancient education)
+- Arnold Van Gennep (Anthropology of Religion; originator of the term 'rite of passage'. Could be worth looking into how he conceptualises it and how it has been critiqued by modern scholars, especially as it pertains to education)
+
+#### Edited Volumes
+- A Companion to Ancient Education
+
 #### Problems in the Scholarship
+- Hellenocentricism
 
 ## Words For and Relating to Education
-#### Greek
-| παιδ-Words                  | Lexical Definition | Notes |
-| --------------------------- | ---------- | ----- |
-| [παιδεία](posts/παιδεία.md) | 1. The rearing of a child<br>2. training and teaching, education|Often noted as being opposed to [τροφή](τροφή)|
-| παιδαγώγησι                 |            |       |
-| παιδεύω |            |       |
+#### Greek Words
+| παιδ-Words                  | Lexical Definition                                               | Notes                                          |
+| --------------------------- | ---------------------------------------------------------------- | ---------------------------------------------- |
+| [παιδεία](posts/παιδεία.md) | 1. The rearing of a child<br>2. training and teaching, education | Often noted as being opposed to [τροφή](τροφή) |
+| παιδαγώγησι                 |                                                                  |                                                |
+| παιδεύω                     |                                                                  |                                                |
+| παίδευσις                            |                                                                  |                                                |
 
 
 | διδακ- and διδασκ- Words| Lexical Definition | Notes |
@@ -71,18 +82,28 @@ An important note about the Hellenistic educational demotic content is that is i
 | μανθάνω |            |       |
 
 
-| γραμμα- Words| Lexical Definition | Notes |
-| --------------------------- | ---------- | ----- |
-| γραμματίζω | the act of learning or getting knowledge | |
-| γραμματικός<br>γραμματική | learned?  | there's a bit of debate over how to translate and understand the term 'γραμματική' on the Girton mummy. Look more into this. |
+| γραμμα- Words             | Lexical Definition                                | Notes                                                                                                                        |
+| ------------------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| γραμματίζω                | the act of learning or getting knowledge          |                                                                                                                              |
+| γραμματικός<br>γραμματική | learned?                                          | there's a bit of debate over how to translate and understand the term 'γραμματική' on the Girton mummy. Look more into this. |
+| γραμματιστής              | One who teaches γράμματα, elementary schoolmaster |                                                                                                                              |
 
-| Other Words | Lexical Definition                               | Notes                                                                                                   |
-| ----------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| τροφή       | Νurture or rearing of a child                    | As opposed to [παιδεία](posts/παιδεία.md). Still don't fully comprehend the distinction between the two |
-| τέχνη       |                                                  |                                                                                                         |
-| ἐπιστήμη    | Acquaintance with a matter, understanding, skill |                                                                                                         |
-| πολυΐστωρ   | Very learned                                     | Epithet applied to Alexander Polyhistor.<br>Question: what made him πολυΐστωρ?                          |
-| σχολάρχης | Head of a school |                                                                                                         |
+| Words not yet Categorised   | Lexical Definition                                                                                          | Notes                                                                                                                                                                                                                                                           |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| τροφή                       | Νurture or rearing of a child                                                                               | As opposed to [παιδεία](posts/παιδεία.md). Still don't fully comprehend the distinction between the two                                                                                                                                                         |
+| τέχνη                       |                                                                                                             |                                                                                                                                                                                                                                                                 |
+| ἐπιστήμη                    | Acquaintance with a matter, understanding, skill                                                            |                                                                                                                                                                                                                                                                 |
+| πολυΐστωρ                   | Very learned                                                                                                | Epithet applied to Alexander Polyhistor.<br>Question: what made him πολυΐστωρ?                                                                                                                                                                                  |
+| σχολάρχης                   | Head of a school                                                                                            |                                                                                                                                                                                                                                                                 |
+| ἀγωγή                       | 1. Carrying away<br>2. Leading, guidance<br>3. Direction, training, [παιδεία](posts/παιδεία.md)             |                                                                                                                                                                                                                                                                 |
+| δημιουργός                  | 1. One who works for people, skilled workman, handicraftsman<br> 2. (Metaph.) maker<br>3. Creator, producer | Can refer to medical practitioners (though not scientific physicians) or any other person who seems to have learned a trade. Might be a helpful term to look more into for technical education                                                                  |
+| [ἐφηβεία](posts/ἐφηβεία.md) | 1. Youth, adolescence<br> 2. Ephebic training                                                               |                                                                                                                                                                                                                                                                 |
+| κρίσις                      | Separating, distinguishing, judgement                                                                       | According to Griffiths, it is the word Aristotle uses to indicate a sort of 'sufficient' level of education in areas like μουσική (i.e., knowledgeable enough to be a good judge, but not necessarily have πρᾶξις or practical ability. See Griffiths 2015: 43) |
+| ὁμόνοια                     | Oneness of mind, unanimity                                                                                  | According to Griffiths, the aim of choral dance (and education in it) was to create ὁμόνοια (Griffiths 2015: 44)                                                                                                                                                |
+| [ἑταῖρος](posts/ἑταῖρος.md) | Comrade, companion, pupil, disciple                                                                         | According to Griffith, it is among the ἑταῖροι that a young male members of Archaic and Classical Greek society would gain a sort of 'higher education'                                                                                                         |
+| μουσική                     | any art over which the Muses presided (poetry, song, dance, music)                                          | An important part of [παιδεία](posts/παιδεία.md) in Early Greece, though, according to Griffith, it gives way to ῥητορική                                                                                                                                       |
+| ῥητορική                    | Rhetoric, oratory, verbal expertise                                                                         | What Griffiths claims supersedes μουσική in the Classical period (Griffiths 2015: 51-52)                                                                                                                                                                        |
+| γυμνᾶσιον                   | Gymnastic school; generally, school; in Egypt: οἱ ἀπὸ γ. = *those who have received training as ἔφεβοι*     |                                                                                                                                                                                                                                                                 |
 
 
 #### Akkadian-Sumerian
@@ -103,13 +124,18 @@ An important note about the Hellenistic educational demotic content is that is i
 ## Project Notes and Questions
 #### Types of Education?
 - Literary
-- Technical
-- Religious/Shamanistic? (look at Griffith p. 24)
+- Technical/craft
+- Religious
+- Computational
+- Medical
+- Military (termed 'knightly education' by [Marrou](posts/Henri-Irénée-Marrou.md)[^2])
+- 'Musical' (i.e., song, poetry and dance)
 
 #### Questions & Problems
-- Was Paederasty part of the education system?
+- Was paederasty part of the education system?
 - To what extent was religion and music involved in education?
 - What make someone 'very learned'? I.e., how does someone become πολυΐτωρ?
+- To what extent was education part of νόμος in the Hellenistic world? 
 
 --- 
 Links: 
@@ -123,3 +149,4 @@ Page To-Do:
 %%
 
 [^1]: Cribiore 2001: 5.
+[^2]: Cf. Griffiths 2015: 39.
