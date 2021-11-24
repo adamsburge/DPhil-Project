@@ -10,7 +10,7 @@ draft: false
 - These notes are now available online!
 - Occurrences of the word παιδεία in papyri added to the [παιδεία lemma-profile](παιδεία.md)
 - Beginning work on the words [μάθησις](μάθησις.md) and [δίδαξις](δίδαξις.md)
-- Many new words under the [Greek section "Words Not Yet Categorised"](../_index.md)
+- Many new words under the [Greek section "Words Not Yet Categorised"](../_index.md) of the Home Page.
 
 #### Overview of What I've Worked On
 I began looking into how the words μάθησις and δίδαξις are spread out over time. After realising that these, like παιδεία, are much more focused in Late Antiquity, I began looking to see if there are words related to ancient education which are, time-wise, more prominent in the Hellenistic era (or, just the BCE era more broadly since most of the words I had investigated up to that point had been more prominent after the 2-3 centuries CE). This led me back to Martin Bloomer's edited book *A Companion to Ancient Education* (*Companion*) which I began reading and taking note of every Greek word I came across which related to education (some more directly, some more remote). I'm still reading through this and looking up words as they come. 
